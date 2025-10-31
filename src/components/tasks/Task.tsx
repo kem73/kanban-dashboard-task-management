@@ -2,7 +2,7 @@ import { Card, Button } from "react-bootstrap";
 import { Trash } from "react-bootstrap-icons";
 import type { UseMutationResult } from "@tanstack/react-query";
 import type { Task } from "../../types/types";
-import EditTaskModal from "../tasks/EditTAskModal";
+import EditTaskModal from "../tasks/EditTaskModal";
 import { memo, useCallback } from "react";
 
 interface TaskCardProps {
