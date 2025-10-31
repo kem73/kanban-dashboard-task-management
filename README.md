@@ -59,7 +59,6 @@ It’s optimized for **performance**, **responsiveness**, and a **clean user exp
 
 The app follows a **modular and scalable architecture** for maintainability and clarity:
 
-```bash
 src/
 ├── components/   # Reusable UI components (cards, modals, inputs, etc.)
 ├── config/     # API interaction layer
