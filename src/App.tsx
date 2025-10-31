@@ -79,7 +79,7 @@ export default function KanbanBoard() {
   return (
     <main className="bg-light min-vh-100">
       <Container fluid="xxl" className="py-4">
-        <h1 className="fw-bold mb-4 text-center">Kanban Board</h1>
+        <h1 className="fw-bold mb-4 text-center">Kanban Dashboard</h1>
 
         <Card className="shadow-sm border-0">
           <Card.Body>
